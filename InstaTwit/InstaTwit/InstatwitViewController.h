@@ -12,6 +12,10 @@
 {
     NSArray *activities;
     NSArray *feelings;
+    IBOutlet UIPickerView *tweetPicker;
 }
+
+@property (nonatomic, retain) UIPickerView *tweetPicker;
+- (IBAction) sendButtonTapped:(id)sender;
 
 @end

@@ -13,6 +13,7 @@
 @end
 
 @implementation InstatwitViewController
+@synthesize tweetPicker;
 
 - (void)viewDidLoad
 {
@@ -65,7 +66,16 @@
 {
     [activities release];
     [feelings release];
+    [tweetPicker release];
     [super dealloc];
 }
 
+- (IBAction) sendButtonTapped: (id) sender
+{
+    NSString *themessage = [NSString stringWithFormat:@"I'm %@ and feeling %@ about it.",
+                            [activities objectAtIndex:[tweetPicker selectedRowInComponent:0]],
+                            [feelings objectAtIndex:[tweetPicker selectedRowInComponent:1]] ];
+    
+    NSLog(themessage);
+}
 @end
