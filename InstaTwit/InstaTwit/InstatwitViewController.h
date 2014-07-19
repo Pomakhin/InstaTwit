@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface InstatwitViewController : UIViewController
+@interface InstatwitViewController : UIViewController <UIPickerViewDataSource, UIPickerViewDelegate>
+{
+    NSArray *activities;
+    NSArray *feelings;
+}
 
 @end
