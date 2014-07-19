@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0C09818F-99EF-4431-9C5B-93D6C523BF53</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InstaTwit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8B53CC4D-A88B-4EAE-BDF5-41478156740F</key>
+		<string>https://github.com/Pomakhin/InstaTwit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>InstaTwit/InstaTwit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8B53CC4D-A88B-4EAE-BDF5-41478156740F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Pomakhin/InstaTwit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8B53CC4D-A88B-4EAE-BDF5-41478156740F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8B53CC4D-A88B-4EAE-BDF5-41478156740F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>instatwit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
