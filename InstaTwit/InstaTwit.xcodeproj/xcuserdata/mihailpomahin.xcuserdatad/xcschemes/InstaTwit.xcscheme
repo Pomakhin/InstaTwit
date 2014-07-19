@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F0E86A44197A89F800CCAC03"
+               BlueprintIdentifier = "F0E86AC2197A8CFD00CCAC03"
                BuildableName = "InstaTwit.app"
                BlueprintName = "InstaTwit"
                ReferencedContainer = "container:InstaTwit.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F0E86A65197A89F800CCAC03"
+               BlueprintIdentifier = "F0E86AE3197A8CFD00CCAC03"
                BuildableName = "InstaTwitTests.xctest"
                BlueprintName = "InstaTwitTests"
                ReferencedContainer = "container:InstaTwit.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0E86A44197A89F800CCAC03"
+            BlueprintIdentifier = "F0E86AC2197A8CFD00CCAC03"
             BuildableName = "InstaTwit.app"
             BlueprintName = "InstaTwit"
             ReferencedContainer = "container:InstaTwit.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0E86A44197A89F800CCAC03"
+            BlueprintIdentifier = "F0E86AC2197A8CFD00CCAC03"
             BuildableName = "InstaTwit.app"
             BlueprintName = "InstaTwit"
             ReferencedContainer = "container:InstaTwit.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F0E86A44197A89F800CCAC03"
+            BlueprintIdentifier = "F0E86AC2197A8CFD00CCAC03"
             BuildableName = "InstaTwit.app"
             BlueprintName = "InstaTwit"
             ReferencedContainer = "container:InstaTwit.xcodeproj">

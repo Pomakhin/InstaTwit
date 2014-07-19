@@ -7,147 +7,147 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F0E86A49197A89F800CCAC03 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A48197A89F800CCAC03 /* Foundation.framework */; };
-		F0E86A4B197A89F800CCAC03 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A4A197A89F800CCAC03 /* CoreGraphics.framework */; };
-		F0E86A4D197A89F800CCAC03 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A4C197A89F800CCAC03 /* UIKit.framework */; };
-		F0E86A53197A89F800CCAC03 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0E86A51197A89F800CCAC03 /* InfoPlist.strings */; };
-		F0E86A55197A89F800CCAC03 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86A54197A89F800CCAC03 /* main.m */; };
-		F0E86A59197A89F800CCAC03 /* InstatwitAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86A58197A89F800CCAC03 /* InstatwitAppDelegate.m */; };
-		F0E86A5C197A89F800CCAC03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0E86A5A197A89F800CCAC03 /* Main.storyboard */; };
-		F0E86A5F197A89F800CCAC03 /* InstatwitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86A5E197A89F800CCAC03 /* InstatwitViewController.m */; };
-		F0E86A61197A89F800CCAC03 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0E86A60197A89F800CCAC03 /* Images.xcassets */; };
-		F0E86A68197A89F800CCAC03 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A67197A89F800CCAC03 /* XCTest.framework */; };
-		F0E86A69197A89F800CCAC03 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A48197A89F800CCAC03 /* Foundation.framework */; };
-		F0E86A6A197A89F800CCAC03 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86A4C197A89F800CCAC03 /* UIKit.framework */; };
-		F0E86A72197A89F800CCAC03 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0E86A70197A89F800CCAC03 /* InfoPlist.strings */; };
-		F0E86A74197A89F800CCAC03 /* InstaTwitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86A73197A89F800CCAC03 /* InstaTwitTests.m */; };
+		F0E86AC7197A8CFD00CCAC03 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86AC6197A8CFD00CCAC03 /* Foundation.framework */; };
+		F0E86AC9197A8CFD00CCAC03 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86AC8197A8CFD00CCAC03 /* CoreGraphics.framework */; };
+		F0E86ACB197A8CFD00CCAC03 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86ACA197A8CFD00CCAC03 /* UIKit.framework */; };
+		F0E86AD1197A8CFD00CCAC03 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0E86ACF197A8CFD00CCAC03 /* InfoPlist.strings */; };
+		F0E86AD3197A8CFD00CCAC03 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86AD2197A8CFD00CCAC03 /* main.m */; };
+		F0E86AD7197A8CFD00CCAC03 /* InstatwitAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86AD6197A8CFD00CCAC03 /* InstatwitAppDelegate.m */; };
+		F0E86ADA197A8CFD00CCAC03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0E86AD8197A8CFD00CCAC03 /* Main.storyboard */; };
+		F0E86ADD197A8CFD00CCAC03 /* InstatwitViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86ADC197A8CFD00CCAC03 /* InstatwitViewController.m */; };
+		F0E86ADF197A8CFD00CCAC03 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0E86ADE197A8CFD00CCAC03 /* Images.xcassets */; };
+		F0E86AE6197A8CFD00CCAC03 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86AE5197A8CFD00CCAC03 /* XCTest.framework */; };
+		F0E86AE7197A8CFD00CCAC03 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86AC6197A8CFD00CCAC03 /* Foundation.framework */; };
+		F0E86AE8197A8CFD00CCAC03 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0E86ACA197A8CFD00CCAC03 /* UIKit.framework */; };
+		F0E86AF0197A8CFD00CCAC03 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0E86AEE197A8CFD00CCAC03 /* InfoPlist.strings */; };
+		F0E86AF2197A8CFD00CCAC03 /* InstaTwitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F0E86AF1197A8CFD00CCAC03 /* InstaTwitTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F0E86A6B197A89F800CCAC03 /* PBXContainerItemProxy */ = {
+		F0E86AE9197A8CFD00CCAC03 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F0E86A3D197A89F800CCAC03 /* Project object */;
+			containerPortal = F0E86ABB197A8CFD00CCAC03 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F0E86A44197A89F800CCAC03;
+			remoteGlobalIDString = F0E86AC2197A8CFD00CCAC03;
 			remoteInfo = InstaTwit;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F0E86A45197A89F800CCAC03 /* InstaTwit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaTwit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0E86A48197A89F800CCAC03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		F0E86A4A197A89F800CCAC03 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		F0E86A4C197A89F800CCAC03 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		F0E86A50197A89F800CCAC03 /* InstaTwit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstaTwit-Info.plist"; sourceTree = "<group>"; };
-		F0E86A52197A89F800CCAC03 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		F0E86A54197A89F800CCAC03 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F0E86A56197A89F800CCAC03 /* InstaTwit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InstaTwit-Prefix.pch"; sourceTree = "<group>"; };
-		F0E86A57197A89F800CCAC03 /* InstatwitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstatwitAppDelegate.h; sourceTree = "<group>"; };
-		F0E86A58197A89F800CCAC03 /* InstatwitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstatwitAppDelegate.m; sourceTree = "<group>"; };
-		F0E86A5B197A89F800CCAC03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F0E86A5D197A89F800CCAC03 /* InstatwitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstatwitViewController.h; sourceTree = "<group>"; };
-		F0E86A5E197A89F800CCAC03 /* InstatwitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstatwitViewController.m; sourceTree = "<group>"; };
-		F0E86A60197A89F800CCAC03 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		F0E86A66197A89F800CCAC03 /* InstaTwitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstaTwitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0E86A67197A89F800CCAC03 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		F0E86A6F197A89F800CCAC03 /* InstaTwitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstaTwitTests-Info.plist"; sourceTree = "<group>"; };
-		F0E86A71197A89F800CCAC03 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		F0E86A73197A89F800CCAC03 /* InstaTwitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstaTwitTests.m; sourceTree = "<group>"; };
+		F0E86AC3197A8CFD00CCAC03 /* InstaTwit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstaTwit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0E86AC6197A8CFD00CCAC03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F0E86AC8197A8CFD00CCAC03 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F0E86ACA197A8CFD00CCAC03 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F0E86ACE197A8CFD00CCAC03 /* InstaTwit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstaTwit-Info.plist"; sourceTree = "<group>"; };
+		F0E86AD0197A8CFD00CCAC03 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F0E86AD2197A8CFD00CCAC03 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F0E86AD4197A8CFD00CCAC03 /* InstaTwit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "InstaTwit-Prefix.pch"; sourceTree = "<group>"; };
+		F0E86AD5197A8CFD00CCAC03 /* InstatwitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstatwitAppDelegate.h; sourceTree = "<group>"; };
+		F0E86AD6197A8CFD00CCAC03 /* InstatwitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstatwitAppDelegate.m; sourceTree = "<group>"; };
+		F0E86AD9197A8CFD00CCAC03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F0E86ADB197A8CFD00CCAC03 /* InstatwitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InstatwitViewController.h; sourceTree = "<group>"; };
+		F0E86ADC197A8CFD00CCAC03 /* InstatwitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstatwitViewController.m; sourceTree = "<group>"; };
+		F0E86ADE197A8CFD00CCAC03 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F0E86AE4197A8CFD00CCAC03 /* InstaTwitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstaTwitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0E86AE5197A8CFD00CCAC03 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		F0E86AED197A8CFD00CCAC03 /* InstaTwitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "InstaTwitTests-Info.plist"; sourceTree = "<group>"; };
+		F0E86AEF197A8CFD00CCAC03 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F0E86AF1197A8CFD00CCAC03 /* InstaTwitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InstaTwitTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F0E86A42197A89F800CCAC03 /* Frameworks */ = {
+		F0E86AC0197A8CFD00CCAC03 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A4B197A89F800CCAC03 /* CoreGraphics.framework in Frameworks */,
-				F0E86A4D197A89F800CCAC03 /* UIKit.framework in Frameworks */,
-				F0E86A49197A89F800CCAC03 /* Foundation.framework in Frameworks */,
+				F0E86AC9197A8CFD00CCAC03 /* CoreGraphics.framework in Frameworks */,
+				F0E86ACB197A8CFD00CCAC03 /* UIKit.framework in Frameworks */,
+				F0E86AC7197A8CFD00CCAC03 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0E86A63197A89F800CCAC03 /* Frameworks */ = {
+		F0E86AE1197A8CFD00CCAC03 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A68197A89F800CCAC03 /* XCTest.framework in Frameworks */,
-				F0E86A6A197A89F800CCAC03 /* UIKit.framework in Frameworks */,
-				F0E86A69197A89F800CCAC03 /* Foundation.framework in Frameworks */,
+				F0E86AE6197A8CFD00CCAC03 /* XCTest.framework in Frameworks */,
+				F0E86AE8197A8CFD00CCAC03 /* UIKit.framework in Frameworks */,
+				F0E86AE7197A8CFD00CCAC03 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F0E86A3C197A89F800CCAC03 = {
+		F0E86ABA197A8CFD00CCAC03 = {
 			isa = PBXGroup;
 			children = (
-				F0E86A4E197A89F800CCAC03 /* InstaTwit */,
-				F0E86A6D197A89F800CCAC03 /* InstaTwitTests */,
-				F0E86A47197A89F800CCAC03 /* Frameworks */,
-				F0E86A46197A89F800CCAC03 /* Products */,
+				F0E86ACC197A8CFD00CCAC03 /* InstaTwit */,
+				F0E86AEB197A8CFD00CCAC03 /* InstaTwitTests */,
+				F0E86AC5197A8CFD00CCAC03 /* Frameworks */,
+				F0E86AC4197A8CFD00CCAC03 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F0E86A46197A89F800CCAC03 /* Products */ = {
+		F0E86AC4197A8CFD00CCAC03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A45197A89F800CCAC03 /* InstaTwit.app */,
-				F0E86A66197A89F800CCAC03 /* InstaTwitTests.xctest */,
+				F0E86AC3197A8CFD00CCAC03 /* InstaTwit.app */,
+				F0E86AE4197A8CFD00CCAC03 /* InstaTwitTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F0E86A47197A89F800CCAC03 /* Frameworks */ = {
+		F0E86AC5197A8CFD00CCAC03 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A48197A89F800CCAC03 /* Foundation.framework */,
-				F0E86A4A197A89F800CCAC03 /* CoreGraphics.framework */,
-				F0E86A4C197A89F800CCAC03 /* UIKit.framework */,
-				F0E86A67197A89F800CCAC03 /* XCTest.framework */,
+				F0E86AC6197A8CFD00CCAC03 /* Foundation.framework */,
+				F0E86AC8197A8CFD00CCAC03 /* CoreGraphics.framework */,
+				F0E86ACA197A8CFD00CCAC03 /* UIKit.framework */,
+				F0E86AE5197A8CFD00CCAC03 /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		F0E86A4E197A89F800CCAC03 /* InstaTwit */ = {
+		F0E86ACC197A8CFD00CCAC03 /* InstaTwit */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A57197A89F800CCAC03 /* InstatwitAppDelegate.h */,
-				F0E86A58197A89F800CCAC03 /* InstatwitAppDelegate.m */,
-				F0E86A5A197A89F800CCAC03 /* Main.storyboard */,
-				F0E86A5D197A89F800CCAC03 /* InstatwitViewController.h */,
-				F0E86A5E197A89F800CCAC03 /* InstatwitViewController.m */,
-				F0E86A60197A89F800CCAC03 /* Images.xcassets */,
-				F0E86A4F197A89F800CCAC03 /* Supporting Files */,
+				F0E86AD5197A8CFD00CCAC03 /* InstatwitAppDelegate.h */,
+				F0E86AD6197A8CFD00CCAC03 /* InstatwitAppDelegate.m */,
+				F0E86AD8197A8CFD00CCAC03 /* Main.storyboard */,
+				F0E86ADB197A8CFD00CCAC03 /* InstatwitViewController.h */,
+				F0E86ADC197A8CFD00CCAC03 /* InstatwitViewController.m */,
+				F0E86ADE197A8CFD00CCAC03 /* Images.xcassets */,
+				F0E86ACD197A8CFD00CCAC03 /* Supporting Files */,
 			);
 			path = InstaTwit;
 			sourceTree = "<group>";
 		};
-		F0E86A4F197A89F800CCAC03 /* Supporting Files */ = {
+		F0E86ACD197A8CFD00CCAC03 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A50197A89F800CCAC03 /* InstaTwit-Info.plist */,
-				F0E86A51197A89F800CCAC03 /* InfoPlist.strings */,
-				F0E86A54197A89F800CCAC03 /* main.m */,
-				F0E86A56197A89F800CCAC03 /* InstaTwit-Prefix.pch */,
+				F0E86ACE197A8CFD00CCAC03 /* InstaTwit-Info.plist */,
+				F0E86ACF197A8CFD00CCAC03 /* InfoPlist.strings */,
+				F0E86AD2197A8CFD00CCAC03 /* main.m */,
+				F0E86AD4197A8CFD00CCAC03 /* InstaTwit-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F0E86A6D197A89F800CCAC03 /* InstaTwitTests */ = {
+		F0E86AEB197A8CFD00CCAC03 /* InstaTwitTests */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A73197A89F800CCAC03 /* InstaTwitTests.m */,
-				F0E86A6E197A89F800CCAC03 /* Supporting Files */,
+				F0E86AF1197A8CFD00CCAC03 /* InstaTwitTests.m */,
+				F0E86AEC197A8CFD00CCAC03 /* Supporting Files */,
 			);
 			path = InstaTwitTests;
 			sourceTree = "<group>";
 		};
-		F0E86A6E197A89F800CCAC03 /* Supporting Files */ = {
+		F0E86AEC197A8CFD00CCAC03 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F0E86A6F197A89F800CCAC03 /* InstaTwitTests-Info.plist */,
-				F0E86A70197A89F800CCAC03 /* InfoPlist.strings */,
+				F0E86AED197A8CFD00CCAC03 /* InstaTwitTests-Info.plist */,
+				F0E86AEE197A8CFD00CCAC03 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -155,13 +155,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F0E86A44197A89F800CCAC03 /* InstaTwit */ = {
+		F0E86AC2197A8CFD00CCAC03 /* InstaTwit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F0E86A77197A89F800CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwit" */;
+			buildConfigurationList = F0E86AF5197A8CFD00CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwit" */;
 			buildPhases = (
-				F0E86A41197A89F800CCAC03 /* Sources */,
-				F0E86A42197A89F800CCAC03 /* Frameworks */,
-				F0E86A43197A89F800CCAC03 /* Resources */,
+				F0E86ABF197A8CFD00CCAC03 /* Sources */,
+				F0E86AC0197A8CFD00CCAC03 /* Frameworks */,
+				F0E86AC1197A8CFD00CCAC03 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -169,43 +169,43 @@
 			);
 			name = InstaTwit;
 			productName = InstaTwit;
-			productReference = F0E86A45197A89F800CCAC03 /* InstaTwit.app */;
+			productReference = F0E86AC3197A8CFD00CCAC03 /* InstaTwit.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F0E86A65197A89F800CCAC03 /* InstaTwitTests */ = {
+		F0E86AE3197A8CFD00CCAC03 /* InstaTwitTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F0E86A7A197A89F800CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwitTests" */;
+			buildConfigurationList = F0E86AF8197A8CFD00CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwitTests" */;
 			buildPhases = (
-				F0E86A62197A89F800CCAC03 /* Sources */,
-				F0E86A63197A89F800CCAC03 /* Frameworks */,
-				F0E86A64197A89F800CCAC03 /* Resources */,
+				F0E86AE0197A8CFD00CCAC03 /* Sources */,
+				F0E86AE1197A8CFD00CCAC03 /* Frameworks */,
+				F0E86AE2197A8CFD00CCAC03 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F0E86A6C197A89F800CCAC03 /* PBXTargetDependency */,
+				F0E86AEA197A8CFD00CCAC03 /* PBXTargetDependency */,
 			);
 			name = InstaTwitTests;
 			productName = InstaTwitTests;
-			productReference = F0E86A66197A89F800CCAC03 /* InstaTwitTests.xctest */;
+			productReference = F0E86AE4197A8CFD00CCAC03 /* InstaTwitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F0E86A3D197A89F800CCAC03 /* Project object */ = {
+		F0E86ABB197A8CFD00CCAC03 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = Instatwit;
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Михаил Помахин";
 				TargetAttributes = {
-					F0E86A65197A89F800CCAC03 = {
-						TestTargetID = F0E86A44197A89F800CCAC03;
+					F0E86AE3197A8CFD00CCAC03 = {
+						TestTargetID = F0E86AC2197A8CFD00CCAC03;
 					};
 				};
 			};
-			buildConfigurationList = F0E86A40197A89F800CCAC03 /* Build configuration list for PBXProject "InstaTwit" */;
+			buildConfigurationList = F0E86ABE197A8CFD00CCAC03 /* Build configuration list for PBXProject "InstaTwit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -213,88 +213,88 @@
 				en,
 				Base,
 			);
-			mainGroup = F0E86A3C197A89F800CCAC03;
-			productRefGroup = F0E86A46197A89F800CCAC03 /* Products */;
+			mainGroup = F0E86ABA197A8CFD00CCAC03;
+			productRefGroup = F0E86AC4197A8CFD00CCAC03 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F0E86A44197A89F800CCAC03 /* InstaTwit */,
-				F0E86A65197A89F800CCAC03 /* InstaTwitTests */,
+				F0E86AC2197A8CFD00CCAC03 /* InstaTwit */,
+				F0E86AE3197A8CFD00CCAC03 /* InstaTwitTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F0E86A43197A89F800CCAC03 /* Resources */ = {
+		F0E86AC1197A8CFD00CCAC03 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A61197A89F800CCAC03 /* Images.xcassets in Resources */,
-				F0E86A53197A89F800CCAC03 /* InfoPlist.strings in Resources */,
-				F0E86A5C197A89F800CCAC03 /* Main.storyboard in Resources */,
+				F0E86ADF197A8CFD00CCAC03 /* Images.xcassets in Resources */,
+				F0E86AD1197A8CFD00CCAC03 /* InfoPlist.strings in Resources */,
+				F0E86ADA197A8CFD00CCAC03 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0E86A64197A89F800CCAC03 /* Resources */ = {
+		F0E86AE2197A8CFD00CCAC03 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A72197A89F800CCAC03 /* InfoPlist.strings in Resources */,
+				F0E86AF0197A8CFD00CCAC03 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F0E86A41197A89F800CCAC03 /* Sources */ = {
+		F0E86ABF197A8CFD00CCAC03 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A59197A89F800CCAC03 /* InstatwitAppDelegate.m in Sources */,
-				F0E86A5F197A89F800CCAC03 /* InstatwitViewController.m in Sources */,
-				F0E86A55197A89F800CCAC03 /* main.m in Sources */,
+				F0E86AD7197A8CFD00CCAC03 /* InstatwitAppDelegate.m in Sources */,
+				F0E86ADD197A8CFD00CCAC03 /* InstatwitViewController.m in Sources */,
+				F0E86AD3197A8CFD00CCAC03 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F0E86A62197A89F800CCAC03 /* Sources */ = {
+		F0E86AE0197A8CFD00CCAC03 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0E86A74197A89F800CCAC03 /* InstaTwitTests.m in Sources */,
+				F0E86AF2197A8CFD00CCAC03 /* InstaTwitTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F0E86A6C197A89F800CCAC03 /* PBXTargetDependency */ = {
+		F0E86AEA197A8CFD00CCAC03 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F0E86A44197A89F800CCAC03 /* InstaTwit */;
-			targetProxy = F0E86A6B197A89F800CCAC03 /* PBXContainerItemProxy */;
+			target = F0E86AC2197A8CFD00CCAC03 /* InstaTwit */;
+			targetProxy = F0E86AE9197A8CFD00CCAC03 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F0E86A51197A89F800CCAC03 /* InfoPlist.strings */ = {
+		F0E86ACF197A8CFD00CCAC03 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F0E86A52197A89F800CCAC03 /* en */,
+				F0E86AD0197A8CFD00CCAC03 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		F0E86A5A197A89F800CCAC03 /* Main.storyboard */ = {
+		F0E86AD8197A8CFD00CCAC03 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F0E86A5B197A89F800CCAC03 /* Base */,
+				F0E86AD9197A8CFD00CCAC03 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F0E86A70197A89F800CCAC03 /* InfoPlist.strings */ = {
+		F0E86AEE197A8CFD00CCAC03 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F0E86A71197A89F800CCAC03 /* en */,
+				F0E86AEF197A8CFD00CCAC03 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -302,7 +302,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F0E86A75197A89F800CCAC03 /* Debug */ = {
+		F0E86AF3197A8CFD00CCAC03 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -340,7 +340,7 @@
 			};
 			name = Debug;
 		};
-		F0E86A76197A89F800CCAC03 /* Release */ = {
+		F0E86AF4197A8CFD00CCAC03 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -372,7 +372,7 @@
 			};
 			name = Release;
 		};
-		F0E86A78197A89F800CCAC03 /* Debug */ = {
+		F0E86AF6197A8CFD00CCAC03 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -385,7 +385,7 @@
 			};
 			name = Debug;
 		};
-		F0E86A79197A89F800CCAC03 /* Release */ = {
+		F0E86AF7197A8CFD00CCAC03 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -398,7 +398,7 @@
 			};
 			name = Release;
 		};
-		F0E86A7B197A89F800CCAC03 /* Debug */ = {
+		F0E86AF9197A8CFD00CCAC03 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/InstaTwit.app/InstaTwit";
@@ -420,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		F0E86A7C197A89F800CCAC03 /* Release */ = {
+		F0E86AFA197A8CFD00CCAC03 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/InstaTwit.app/InstaTwit";
@@ -441,32 +441,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F0E86A40197A89F800CCAC03 /* Build configuration list for PBXProject "InstaTwit" */ = {
+		F0E86ABE197A8CFD00CCAC03 /* Build configuration list for PBXProject "InstaTwit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0E86A75197A89F800CCAC03 /* Debug */,
-				F0E86A76197A89F800CCAC03 /* Release */,
+				F0E86AF3197A8CFD00CCAC03 /* Debug */,
+				F0E86AF4197A8CFD00CCAC03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F0E86A77197A89F800CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwit" */ = {
+		F0E86AF5197A8CFD00CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0E86A78197A89F800CCAC03 /* Debug */,
-				F0E86A79197A89F800CCAC03 /* Release */,
+				F0E86AF6197A8CFD00CCAC03 /* Debug */,
+				F0E86AF7197A8CFD00CCAC03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F0E86A7A197A89F800CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwitTests" */ = {
+		F0E86AF8197A8CFD00CCAC03 /* Build configuration list for PBXNativeTarget "InstaTwitTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F0E86A7B197A89F800CCAC03 /* Debug */,
-				F0E86A7C197A89F800CCAC03 /* Release */,
+				F0E86AF9197A8CFD00CCAC03 /* Debug */,
+				F0E86AFA197A8CFD00CCAC03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F0E86A3D197A89F800CCAC03 /* Project object */;
+	rootObject = F0E86ABB197A8CFD00CCAC03 /* Project object */;
 }
