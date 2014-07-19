@@ -77,5 +77,17 @@
                             [feelings objectAtIndex:[tweetPicker selectedRowInComponent:1]] ];
     
     NSLog(themessage);
+    
+    NSMutableURLRequest *theRequest = [NSMutableURLRequest requestWithURL:[NSURL URLWithString:@"http://G_E_S_:2hComp@twitter.com/statuses/update.xml"]
+                                                              cachePolicy:NSURLRequestUseProtocolCachePolicy timeoutInterval:60.0];
+    [theRequest setHTTPMethod:@"POST"];
+    [theRequest setHTTPBody:[[NSString stringWithFormat:@"status=%@", themessage] dataUsingEncoding:NSASCIIStringEncoding]];
+    NSURLResponse *response;
+    NSError *error;
+    NSData *result = [NSURLConnection sendSynchronousRequest:theRequest returningResponse:&response error:&error];
+    NSLog(@"%@", [[[NSString alloc] initWithData:result encoding:NSASCIIStringEncoding] autorelease]);
+    
+    
+    
 }
 @end
